@@ -6,5 +6,5 @@ All the Images in this Repo are Downloaded from https://thispersondoesnotexist.c
 ## Images in each Batch
 
 ### Batch 1
-    ![underthehood](/repository/Under the hood/Batch 1.png?raw=true "Employee Data title"     
+    ![underthehood](/Faces/Under the hood/Batch 1.png?raw=true "Employee Data title")   
 
