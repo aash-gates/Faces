@@ -6,5 +6,5 @@ All the Images in this Repo are Downloaded from https://thispersondoesnotexist.c
 ## Images in each Batch
 
 ### Batch 1
-    ![underthehood](Under the hood/Batch 1.png)   
+    ![Batch1](https://github.com/aash-gates/Faces/blob/main/Under%20the%20hood/Batch%201.png) 
 
